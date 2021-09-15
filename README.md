@@ -19,24 +19,24 @@
 <h1 align="center">📁 Featured projects</h3>
 <p align="center">
   <!-- hsjm-io/vite-boilerplate -->
-  <a href="https://github.com/hsjm-io/vite-boilerplate"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hsjm-io&repo=vite-boilerplate&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=true" alt="vite-boilerplate"></a>
+  <a href="https://github.com/hsjm-io/vite-boilerplate"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hsjm-io&repo=vite-boilerplate&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
   <!-- hsjm-io/sjpiscine -->
-  <a href="https://github.com/hsjm-io/sjpiscine"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hsjm-io&repo=sjpiscine&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=true" alt="sjpiscine"></a>
+  <a href="https://github.com/hsjm-io/sjpiscine"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hsjm-io&repo=sjpiscine&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="sjpiscine"></a>
   <br/>
   <!-- shorwood/strapi-provider-upload-do -->
-  <a href="https://github.com/shorwood/strapi-provider-upload-do"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shorwood&repo=strapi-provider-upload-do&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=true" alt="strapi-provider-upload-do"></a>
+  <a href="https://github.com/shorwood/strapi-provider-upload-do"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shorwood&repo=strapi-provider-upload-do&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="strapi-provider-upload-do"></a>
   <!-- shorwood/gptsh -->
-  <a href="https://github.com/shorwood/gptsh"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shorwood&repo=gptsh&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=true" alt="gptshs"></a>
+  <a href="https://github.com/shorwood/gptsh"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shorwood&repo=gptsh&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="gptshs"></a>
   <!-- shorwood/pompaute -->
   <br/>
-  <a href="https://github.com/shorwood/pompaute"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shorwood&repo=pompaute&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=true" alt="pompaute"></a>
+  <a href="https://github.com/shorwood/pompaute"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shorwood&repo=pompaute&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="pompaute"></a>
   <!-- shorwood/omniscient -->
-  <a href="https://github.com/shorwood/omiscient"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shorwood&repo=omiscient&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=true" alt="omiscient"></a>
+  <a href="https://github.com/shorwood/omiscient"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shorwood&repo=omiscient&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="omiscient"></a>
   <!-- shorwood/libft -->
   <br/>
-  <a href="https://github.com/shorwood/libft"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shorwood&repo=libft&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=true" alt="libft"></a>
+  <a href="https://github.com/shorwood/libft"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shorwood&repo=libft&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="libft"></a>
   <!-- shorwood/get-next-line -->
-  <a href="https://github.com/shorwood/get-next-line"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shorwood&repo=get-next-line&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=true" alt="get-next-line"></a>
+  <a href="https://github.com/shorwood/get-next-line"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shorwood&repo=get-next-line&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="get-next-line"></a>
 </p>
 
 
