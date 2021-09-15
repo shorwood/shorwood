@@ -29,7 +29,7 @@
   <a href="https://github.com/shorwood/gptsh"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shorwood&repo=gptsh&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=true" alt="gptshs"></a>
   <!-- shorwood/pompaute -->
   <br/>
-  <a href="https://github.com/shorwood/pompaute"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shorwood&repo=pompaute&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="pompaute"></a>
+  <a href="https://github.com/shorwood/pompaute"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shorwood&repo=pompaute&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=true" alt="pompaute"></a>
   <!-- shorwood/omniscient -->
   <a href="https://github.com/shorwood/omiscient"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shorwood&repo=omiscient&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=true" alt="omiscient"></a>
   <!-- shorwood/libft -->
