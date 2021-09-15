@@ -48,8 +48,8 @@
   solutions. I found a keen interest in web-development using <strong>Vue.js</strong> and it's ecosystem and now feel at ease with it.
 </p>
 
-<h3 align="center">Front-end Frameworks</h3>
-<p align="center">
+<details align="center">
+  <summary>Front-end Frameworks</summary>
   <img alt="vue" title="Vue 2/3" src="https://img.shields.io/badge/Vue_2\3-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
   <img alt="vue-router" title="Vue Router 3/4" src="https://img.shields.io/badge/Vue_Router_3\4-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
   <img alt="vuex" title="Vuex" src="https://img.shields.io/badge/Vuex-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
@@ -60,10 +60,10 @@
   <img alt="tailwindcss" title="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-15B3C0?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img alt="bootstrap" title="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img alt="vuetify" title="Vuetify" src="https://img.shields.io/badge/Vuetify-158FE9?style=for-the-badge&logo=vuetify&logoColor=white">
-</h3>
+</details>
 
-<h3 align="center">Back-end Frameworks</h3>
-<p align="center">
+<details align="center">
+  <summary>Back-end Frameworks</summary>
   <img alt="node" title="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img alt="express" title="ExpressJS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white">
   <img alt="strapi" title="Strapi" src="https://img.shields.io/badge/Strapi-1E1D80?style=for-the-badge&logo=strapi&logoColor=white">
@@ -74,10 +74,10 @@
   <img alt="sqlite" title="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
   <br/>
   <img alt="nginx" title="Nginx" src="https://img.shields.io/badge/Nginx-008D36?style=for-the-badge&logo=nginx&logoColor=white">
-</h3>
+</details>
 
-<h3 align="center">Languages & Subsets</h3>
-<p align="center">
+<details align="center">
+  <summary>Languages & Subsets</summary>
   <img alt="javascript" title="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img alt="typescript" title="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img alt="cplusplus" title="C\C++" src="https://img.shields.io/badge/C\C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -86,18 +86,18 @@
   <img alt="postcss" title="PostCSS" src="https://img.shields.io/badge/PostCSS-D23709?style=for-the-badge&logo=postcss&logoColor=white">
   <img alt="sass" title="Sass/Scss" src="https://img.shields.io/badge/Sass\Scss-563D7C?style=for-the-badge&logo=sass&logoColor=white">
   <img alt="graphql" title="GraphQL" src="https://img.shields.io/badge/GraphQL-D932A2?style=for-the-badge&logo=graphql&logoColor=white">
-</h3>
+</details>
 
-<h3 align="center">Bundlers & Transcompilers</h3>
-<p align="center">
+<details align="center">
+  <summary>Bundlers & Transcompilers</summary>
   <img alt="webpack" title="Webpack" src="https://img.shields.io/badge/Webpack-1B72B6?style=for-the-badge&logo=webpack&logoColor=white">
   <img alt="vite" title="Vite" src="https://img.shields.io/badge/Vite-8C63F2?style=for-the-badge&logo=vite&logoColor=white">
   <img alt="rollup" title="Rollup" src="https://img.shields.io/badge/Rollup.js-E6332E?style=for-the-badge&logo=rollup.js&logoColor=white">
   <img alt="babel" title="Babel" src="https://img.shields.io/badge/Babel-EBC701?style=for-the-badge&logo=babel&logoColor=black">
-</h3>
+</details>
 
-<h3 align="center">CI/CD & Cloud Solutions</h3>
-<p align="center">
+<details align="center">
+  <summary>CI/CD & Cloud Solutions</summary>
   <img alt="firebase" title="Firebase" src="https://img.shields.io/badge/Firebase-0393D9?style=for-the-badge&logo=firebase&logoColor=F2C22C">
   <img alt="do" title="Digital Ocean" src="https://img.shields.io/badge/Digital_Ocean-0079F2?style=for-the-badge&logo=digitalocean&logoColor=white">
   <img alt="ovh" title="OVH" src="https://img.shields.io/badge/OVH-114066?style=for-the-badge&logo=ovh&logoColor=white">
@@ -105,14 +105,13 @@
   <img alt="docker" title="Docker" src="https://img.shields.io/badge/Docker-0095D1?style=for-the-badge&logo=docker&logoColor=white">
   <img alt="kubernetes" title="Kubernetes" src="https://img.shields.io/badge/Kubernetes-3068D9?style=for-the-badge&logo=kubernetes&logoColor=white">
   <img alt="terraform" title="Terraform" src="https://img.shields.io/badge/Terraform-5A40DD?style=for-the-badge&logo=terraform&logoColor=white">
-</h3>
+</details>
 
-<h3 align="center">Salesforce Development & Administration</h3>
-<p align="center">
+<details align="center">
+  <summary>Salesforce Development & Administration</summary>
   <img alt="sf-cloud" title="Salesforce Admin" src="https://img.shields.io/badge/Salesforce_Admin-1998D0?style=for-the-badge&logo=salesforce&logoColor=white">
   <img alt="sf-apex" title="Apex" src="https://img.shields.io/badge/Apex-1998D0?style=for-the-badge&logo=salesforce&logoColor=white">
   <img alt="sf-lightning" title="Lightning" src="https://img.shields.io/badge/Lightning-1998D0?style=for-the-badge&logo=salesforce&logoColor=white">
   <img alt="sf-lwc" title="Lightning Web Component" src="https://img.shields.io/badge/LWC-1998D0?style=for-the-badge&logo=salesforce&logoColor=white">
   <img alt="sf-slds" title="Salesforce Lightning Design System" src="https://img.shields.io/badge/SLDS-1998D0?style=for-the-badge&logo=salesforce&logoColor=white">
-</h3>
-<br/><br/>
+</details>
