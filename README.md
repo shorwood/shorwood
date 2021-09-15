@@ -66,9 +66,9 @@
 <h3 align="center">Bundlers & Transcompilers</h3>
 <p align="center">
   <img alt="webpack" title="Webpack" src="https://img.shields.io/badge/Webpack-1B72B6?style=for-the-badge&logo=webpack&logoColor=white">
-  <img alt="vite" title="Vite" src="https://img.shields.io/badge/Vite-404D59?style=for-the-badge&logo=vite&logoColor=white">
-  <img alt="rollup" title="Rollup" src="https://img.shields.io/badge/Rollup.js-404D59?style=for-the-badge&logo=rollup.js&logoColor=white">
-  <img alt="babel" title="Babel" src="https://img.shields.io/badge/Babel-404D59?style=for-the-badge&logo=babel&logoColor=white">
+  <img alt="vite" title="Vite" src="https://img.shields.io/badge/Vite-8C63F2?style=for-the-badge&logo=vite&logoColor=white">
+  <img alt="rollup" title="Rollup" src="https://img.shields.io/badge/Rollup.js-E6332E?style=for-the-badge&logo=rollup.js&logoColor=white">
+  <img alt="babel" title="Babel" src="https://img.shields.io/badge/Babel-EBC701?style=for-the-badge&logo=babel&logoColor=black">
 </h3>
 
 <h3 align="center">CI/CD & Cloud Solutions</h3>
