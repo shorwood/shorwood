@@ -41,12 +41,7 @@
 
 
 <!------------- Badge ------------->
-<h1 align="center">🍵 About</h1>
-<p align="center">
-  Starting as a Salesforce developer, I quickly moved to web-development to allow myself to work on interesting projects.
-  Always trying to keep-up with ecosystem, I thrive on architecturing and delivering powerful, easily maintainable and scalable
-  solutions. I found a keen interest in web-development using <strong>Vue.js</strong> and it's ecosystem and now feel at ease with it.
-</p>
+<h1 align="center">🍵 Skill-set</h1>
 
 <details align="center">
   <summary>Front-end Frameworks</summary>
