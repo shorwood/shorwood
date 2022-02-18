@@ -20,8 +20,8 @@
 <p align="center">
   <!-- hsjm-io/vite-boilerplate -->
   <a href="https://github.com/hsjm-io/vite-boilerplate"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hsjm-io&repo=vite-boilerplate&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
-  <!-- hsjm-io/sjpiscine -->
-  <a href="https://github.com/hsjm-io/sjpiscine"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hsjm-io&repo=sjpiscine&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="sjpiscine"></a>
+  <!-- shorwood/tailwindcss-unsplash -->
+  <a href="https://github.com/shorwood/tailwindcss-unsplash"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shorwood&repo=tailwindcss-unsplash&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="tailwindcss-unsplash"></a>
   <br/>
   <!-- shorwood/strapi-provider-upload-do -->
   <a href="https://github.com/shorwood/strapi-provider-upload-do"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shorwood&repo=strapi-provider-upload-do&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="strapi-provider-upload-do"></a>
