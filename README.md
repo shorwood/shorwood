@@ -20,9 +20,9 @@
 <p align="center">
   <!-- shorwood/tailwindcss-unsplash -->
   <a href="https://github.com/shorwood/tailwindcss-unsplash"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shorwood&repo=tailwindcss-unsplash&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="tailwindcss-unsplash"></a>
-  <br/>
   <!-- shorwood/strapi-provider-upload-do -->
   <a href="https://github.com/shorwood/strapi-provider-upload-do"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shorwood&repo=strapi-provider-upload-do&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="strapi-provider-upload-do"></a>
+  <br/>
   <!-- shorwood/pompaute -->
   <a href="https://github.com/shorwood/pompaute"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shorwood&repo=pompaute&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="pompaute"></a>
   <!-- shorwood/gptsh -->
@@ -30,7 +30,6 @@
   <br/>
   <!-- shorwood/omniscient -->
   <a href="https://github.com/shorwood/omniscient"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shorwood&repo=omniscient&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="omniscient"></a>
-  <br/>
   <!-- shorwood/libft -->
   <a href="https://github.com/shorwood/libft"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shorwood&repo=libft&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="libft"></a>
 </p>
