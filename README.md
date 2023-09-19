@@ -52,7 +52,6 @@
   <img alt="vuex" title="Vuex" src="https://img.shields.io/badge/Vuex-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
   <img alt="nuxt" title="Nuxt" src="https://img.shields.io/badge/Nuxt.js-35495E?style=for-the-badge&logo=nuxt.js&logoColor=4FC08D">
   <img alt="composition-api" title="Vue Composition-API" src="https://img.shields.io/badge/Composition_API-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
-  <br/>
   <img alt="windicss" title="WindiCSS" src="https://img.shields.io/badge/WindiCSS-0D9DDD?style=for-the-badge&logo=windi-css&logoColor=white">
   <img alt="tailwindcss" title="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-15B3C0?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img alt="bootstrap" title="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
