@@ -18,20 +18,20 @@
 <!------------- Projects ------------->
 <h1 align="center">📁 Featured projects</h3>
 <p align="center">
-  <!-- shorwood/tailwindcss-unsplash -->
-  <a href="https://github.com/shorwood/tailwindcss-unsplash"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shorwood&repo=tailwindcss-unsplash&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="tailwindcss-unsplash"></a>
-  <!-- shorwood/strapi-provider-upload-do -->
-  <a href="https://github.com/shorwood/strapi-provider-upload-do"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shorwood&repo=strapi-provider-upload-do&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="strapi-provider-upload-do"></a>
+  <!-- shorwood/libft -->
+  <a href="https://github.com/shorwood/libft"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shorwood&repo=libft&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="libft"></a>
+  <!-- shorwood/unshared -->
+  <a href="https://github.com/shorwood/unshared"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shorwood&repo=unshared&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="unshared"></a>
   <br/>
   <!-- shorwood/pompaute -->
   <a href="https://github.com/shorwood/pompaute"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shorwood&repo=pompaute&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="pompaute"></a>
   <!-- shorwood/gptsh -->
   <a href="https://github.com/shorwood/gptsh"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shorwood&repo=gptsh&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="gptshs"></a>
   <br/>
-  <!-- shorwood/libft -->
-  <a href="https://github.com/shorwood/libft"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shorwood&repo=libft&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="libft"></a>
-  <!-- shorwood/unshared -->
-  <a href="https://github.com/shorwood/unshared"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shorwood&repo=unshared&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="unshared"></a>
+  <!-- shorwood/tailwindcss-unsplash -->
+  <a href="https://github.com/shorwood/tailwindcss-unsplash"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shorwood&repo=tailwindcss-unsplash&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="tailwindcss-unsplash"></a>
+  <!-- shorwood/strapi-provider-upload-do -->
+  <a href="https://github.com/shorwood/strapi-provider-upload-do"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shorwood&repo=strapi-provider-upload-do&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="strapi-provider-upload-do"></a>
 </p>
 
 <h1 align="center">📁 Contributions</h3>
